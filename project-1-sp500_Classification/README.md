@@ -41,6 +41,7 @@ We analyze **historical macroeconomic data** and apply predictive modeling techn
 - **Achieved 69.7% accuracy** in predicting S&P 500 movements using only macroeconomic indicators.
 - **Gradient Boosting performed the best**, outperforming Logistic Regression, KNN, and SVM.
 - Below is a visualization of prediction vs actual market trends:
+  
 ![image](https://github.com/user-attachments/assets/228518d1-9a25-45cc-8ad0-16cf562d5d97)
 
 ## Next Steps
