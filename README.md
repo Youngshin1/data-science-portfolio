@@ -26,6 +26,6 @@ A showcase of my data science projects in machine learning, data analysis, and p
 🚀 *Status: In Progress*
 
 
-## **🛠️ Technologies Used**
+## **Technologies Used**
 - **Programming:** Python
 - **Machine Learning:** Scikit-Learn, XGBoost  
